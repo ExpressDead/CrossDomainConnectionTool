@@ -1,3 +1,5 @@
+https://travis-ci.org/doymturner/CrossDomainConnectionTool.svg?branch=master
+
 CrossDomainConnectionTool
 =========================
 
