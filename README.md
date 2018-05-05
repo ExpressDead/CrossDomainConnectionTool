@@ -1,4 +1,4 @@
-https://travis-ci.org/doymturner/CrossDomainConnectionTool.svg?branch=master
+[![Build Status](https://travis-ci.org/doymturner/CrossDomainConnectionTool.svg?branch=master)](https://travis-ci.org/doymturner/CrossDomainConnectionTool)
 
 CrossDomainConnectionTool
 =========================
